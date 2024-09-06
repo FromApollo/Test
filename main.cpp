@@ -13,8 +13,7 @@ int main(){
     firstHuman.name = "Palina";
     firstHuman.age = 18;
     firstHuman.print();
-
-
+    std::cout << "From future";
 
     return 0;
 }
